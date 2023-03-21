@@ -1,6 +1,8 @@
 # Loggy
 Loggy is a keylogger that is created in C++. It is simple and small yet will allow you to record keystrokes on a target system.
 
+This is a PoC program, do NOT use this for malicious purposes.
+
 ## Setup
 
 To setup loggy it is very simple:
